@@ -11,12 +11,12 @@ res.send([1,2,3,4,5,5])
 });
 
 
-
-app.get('/api/courses/:id',(req,res) =>{
-    res.send(req.params.id)
+// Rout parameters for values, Query string parameters for sortings etc can be used in browser
+app.get('/api/post/:year/:month',(req,res) =>{
+    res.send(req.query)// reading query || params
 })
 
-//Port
+//Port 
 const port = process.env.PORT || 3000; 
 app.listen(port, ()=>console.log(`listening on port ${port}`))
 
