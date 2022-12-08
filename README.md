@@ -6,4 +6,6 @@
 
 - In order to access this file, you must install [Node](https://nodejs.org/en/download/).
 
-- Add [Postman](https://www.postman.com/downloads/) to your browser
+- Add [Postman](https://www.postman.com/downloads/) to your browser.
+
+(Since it is deprecated, you have the option to download it on their website.)
