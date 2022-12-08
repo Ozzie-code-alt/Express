@@ -7,3 +7,5 @@
 - In order to access this file, you must install [Node](https://nodejs.org/en/download/).
 
 - Add [Postman](https://www.postman.com/downloads/) to your browser
+
+- CD through your file
