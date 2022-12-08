@@ -8,4 +8,4 @@
 
 - Add [Postman](https://www.postman.com/downloads/) to your browser
 
-- CD through your file
+- CD through your file folder and add package jason file 'npm init --yes'
