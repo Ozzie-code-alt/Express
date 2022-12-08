@@ -23,4 +23,5 @@
 - CD through your file folder and add the package JSON file `npm init --yes`
 - Install Express 'npm i express' NOTE if it doesn't work try express@4.16.2
 - For Schema 'npm i express' NOTE if error again try joi@13.1.0
+- Then add nodemon "Node Monitor" package in your file globally 'npm i -g nodemon'
 >>>>>>> e27fa7c1ea5e36d1f0d64fb1c72d8fb9a6a807ec
