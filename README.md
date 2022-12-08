@@ -9,3 +9,5 @@
 - Add [Postman](https://www.postman.com/downloads/) to your browser
 
 - CD through your file folder and add package jason file 'npm init --yes'
+
+- Install Express 'npm i express' NOTE if it doesn't work, try express@4.16.2
