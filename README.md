@@ -12,3 +12,5 @@
 
 
 <H2>Steps:</H2>
+
+- CD through your file folder and add the package jason file `npm init --yes`
