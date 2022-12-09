@@ -14,3 +14,4 @@
 <H2>Steps:</H2>
 
 - CD through your file folder and add the package JSON file `npm init --yes`
+- Install Express `npm i express` 
