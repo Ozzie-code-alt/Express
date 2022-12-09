@@ -17,4 +17,6 @@
 - Install Express `npm i express` NOTE if it doesnt work try express@4.16.2
 - for schema `npm i joi` NOTE if error again try joi@13.1.0
 - Then add nodemon  "node Monitor" package in your file globally `npm i -g nodemon`
-        - to access nodemon on terminal `nodemon <file name>`
+    - to access nodemon on terminal `nodemon <file name>`
+
+Copy this link into postman by using these HTTP Methods: Get - POST - PUT - DELETE
