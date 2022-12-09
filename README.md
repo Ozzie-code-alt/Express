@@ -15,4 +15,4 @@
 
 - CD through your file folder and add the package JSON file `npm init --yes`
 - Install Express `npm i express` NOTE if it doesnt work try express@4.16.2
-- for schema `npm i joi` NOTE if error again
+- for schema `npm i joi` NOTE if error again try joi@13.1.0
