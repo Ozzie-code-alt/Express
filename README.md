@@ -14,4 +14,5 @@
 <H2>Steps:</H2>
 
 - CD through your file folder and add the package JSON file `npm init --yes`
-- Install Express `npm i express` 
+- Install Express `npm i express` NOTE if it doesnt work try express@4.16.2
+- for schema
