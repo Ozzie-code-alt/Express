@@ -31,3 +31,7 @@
 - For Schema 'npm i express' NOTE if error again try joi@13.1.0
 - Then add nodemon "Node Monitor" package in your file globally 'npm i -g nodemon'
     - to access nodemon on terminal `nodemon <file name>`
+
+Copy this link into postman by using these HTTP Methods: Get - POST - PUT - DELETE
+
+use port 3000 with link `/api/courses/:id`
