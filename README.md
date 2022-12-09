@@ -20,3 +20,5 @@
     - to access nodemon on terminal `nodemon <file name>`
 
 Copy this link into postman by using these HTTP Methods: Get - POST - PUT - DELETE
+
+use port 3000 with link `/api/courses/:id`
