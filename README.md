@@ -6,8 +6,8 @@
 
 - In order to access this file, you must install [Node](https://nodejs.org/en/download/).
 
-<<<<<<< HEAD
-- Add [Postman](https://www.postman.com/downloads/) to your browser
+
+
 
 - CD through your file folder and add package jason file 'npm init --yes'
 
